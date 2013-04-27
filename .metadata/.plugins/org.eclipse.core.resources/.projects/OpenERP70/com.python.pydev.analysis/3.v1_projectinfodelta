@@ -1,0 +1,8 @@
+INSTUPopenerp.tools.parse_version
+/opt/projects/OpenERP70/openerp/tools/parse_version.py
+INFOS:&&3|1|2|0&&3|3|2|0&&2|4|2|0&&2|5|2|0
+replace=3
+_parse_version_parts=4
+parse_version=5
+openerp.tools.parse_version=2
+component_re=1

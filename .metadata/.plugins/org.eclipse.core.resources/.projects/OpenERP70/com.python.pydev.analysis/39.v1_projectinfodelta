@@ -1,0 +1,10 @@
+INSTUPopenerp.workflow.workitem
+/opt/projects/OpenERP70/openerp/workflow/workitem.py
+INFOS:&&2|1|2|0&&2|3|2|0&&2|4|2|0&&2|5|2|0&&2|6|2|0&&2|7|2|0
+process=3
+_execute=5
+_state_set=4
+openerp.workflow.workitem=2
+_split_test=6
+create=1
+_join_test=7

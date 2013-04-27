@@ -1,0 +1,15 @@
+INSTUPopenerp.workflow.wkf_service
+/opt/projects/OpenERP70/openerp/workflow/wkf_service.py
+INFOS:&&1|1|2|0&&2|3|2|1&&3|4|2|5&&2|6|2|1&&2|7|2|1&&2|8|2|1&&2|9|2|1&&2|10|2|1&&2|11|2|1&&2|12|2|1
+openerp.workflow.wkf_service=2
+trg_trigger=8
+clear_cache=6
+trg_validate=11
+workflow_service=1
+__init__=3
+workflow_service.__init__=5
+trg_redirect=12
+trg_write=7
+wkf_on_create_cache=4
+trg_create=10
+trg_delete=9

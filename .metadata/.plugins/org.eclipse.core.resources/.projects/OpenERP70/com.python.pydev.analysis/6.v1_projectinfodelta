@@ -1,0 +1,16 @@
+INSTUPopenerp.tools.safe_eval
+/opt/projects/OpenERP70/openerp/tools/safe_eval.py
+INFOS:&&3|1|2|0&&3|3|2|0&&3|4|2|0&&3|5|2|0&&3|6|2|0&&3|7|2|0&&2|8|2|0&&2|9|2|0&&2|10|2|0&&2|11|2|0&&2|12|2|0&&2|13|2|0
+_get_opcodes=8
+_CONST_OPCODES=4
+expr_eval=11
+const_eval=10
+test_expr=9
+_import=12
+__all__=1
+safe_eval=13
+_logger=7
+openerp.tools.safe_eval=2
+_EXPR_OPCODES=5
+_SAFE_OPCODES=6
+_ALLOWED_MODULES=3

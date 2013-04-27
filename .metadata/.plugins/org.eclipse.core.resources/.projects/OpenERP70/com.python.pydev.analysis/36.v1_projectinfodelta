@@ -1,0 +1,5 @@
+INSTUPopenerp.workflow.wkf_logs
+/opt/projects/OpenERP70/openerp/workflow/wkf_logs.py
+INFOS:&&2|1|2|0
+openerp.workflow.wkf_logs=2
+log=1

@@ -1,0 +1,5 @@
+INSTUPopenerp.tools.win32
+/opt/projects/OpenERP70/openerp/tools/win32.py
+INFOS:&&2|1|2|0
+nl_langinfo=1
+openerp.tools.win32=2

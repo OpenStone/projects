@@ -1,0 +1,7 @@
+INSTUPsetup
+/opt/projects/OpenERP70/setup.py
+INFOS:&&2|1|2|0&&2|3|2|0&&2|4|2|0
+gen_manifest=3
+py2exe_options=4
+setup=2
+data=1

@@ -1,0 +1,5 @@
+[options]
+admin_passwd = admin
+db_host = 127.0.0.1
+db_user = opendev
+db_password = postgres

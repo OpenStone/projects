@@ -1,0 +1,6 @@
+INSTUPopenerp.tools.test_config
+/opt/projects/OpenERP70/openerp/tools/test_config.py
+INFOS:&&3|1|2|0&&3|3|2|0&&3|3|2|0&&3|3|2|0&&3|3|2|0
+config_file_00=1
+conf=3
+openerp.tools.test_config=2

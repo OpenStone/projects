@@ -1,0 +1,5 @@
+INSTUPopenerp.tools.sql
+/opt/projects/OpenERP70/openerp/tools/sql.py
+INFOS:&&2|1|2|0
+openerp.tools.sql=2
+drop_view_if_exists=1

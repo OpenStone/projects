@@ -1,0 +1,6 @@
+INSTUPopenerp.tools.osutil
+/opt/projects/OpenERP70/openerp/tools/osutil.py
+INFOS:&&2|1|2|0&&2|3|2|0
+openerp.tools.osutil=2
+walksymlinks=3
+listdir=1

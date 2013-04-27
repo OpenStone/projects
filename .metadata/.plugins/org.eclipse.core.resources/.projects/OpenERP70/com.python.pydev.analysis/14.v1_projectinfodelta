@@ -1,0 +1,7 @@
+INSTUPopenerp.tools.test_reports
+/opt/projects/OpenERP70/openerp/tools/test_reports.py
+INFOS:&&3|1|2|0&&2|3|2|0&&2|4|2|0
+_logger=1
+try_report_action=4
+openerp.tools.test_reports=2
+try_report=3

@@ -1,0 +1,14 @@
+INSTUPopenerp.tools.view_validation
+/opt/projects/OpenERP70/openerp/tools/view_validation.py
+INFOS:&&3|1|2|0&&2|3|2|0&&2|4|2|0&&2|5|2|0&&2|6|2|0&&2|7|2|0&&2|8|2|0&&2|9|2|0&&2|10|2|0&&2|11|2|0
+openerp.tools.view_validation=2
+valid_type_in_colspan=9
+valid_page_in_book=3
+valid_att_in_form=8
+valid_field_in_graph=4
+valid_type_in_col=10
+_logger=1
+valid_att_in_field=6
+valid_view=11
+valid_field_in_tree=5
+valid_att_in_label=7

@@ -1,0 +1,9 @@
+INSTUPopenerp.workflow.instance
+/opt/projects/OpenERP70/openerp/workflow/instance.py
+INFOS:&&2|1|2|0&&2|3|2|0&&2|4|2|0&&2|5|2|0&&2|6|2|0
+update=5
+delete=3
+_update_end=6
+create=1
+validate=4
+openerp.workflow.instance=2

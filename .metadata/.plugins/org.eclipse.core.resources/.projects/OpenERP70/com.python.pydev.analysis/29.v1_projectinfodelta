@@ -1,0 +1,9 @@
+INSTUPopenerp.workflow.common
+/opt/projects/OpenERP70/openerp/workflow/common.py
+INFOS:&&1|1|2|0&&2|3|2|1&&3|4|2|5&&3|6|2|5
+__init__=3
+except_wkf.__init__=5
+except_wkf=1
+name=4
+value=6
+openerp.workflow.common=2
