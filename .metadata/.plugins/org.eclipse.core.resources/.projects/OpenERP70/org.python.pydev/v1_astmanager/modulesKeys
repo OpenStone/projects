@@ -1374,6 +1374,11 @@ openerp.tests.addons.test_impex.tests.test_export|/opt/projects/OpenERP70/opener
 openerp.tests.addons.test_impex.tests.test_import|/opt/projects/OpenERP70/openerp/tests/addons/test_impex/tests/test_import.py
 openerp.tests.addons.test_impex.tests.test_load|/opt/projects/OpenERP70/openerp/tests/addons/test_impex/tests/test_load.py
 openerp.tests.addons.test_limits.__init__|/opt/projects/OpenERP70/openerp/tests/addons/test_limits/__init__.py
+openerp.tests.addons.test_limits.__openerp__|/opt/projects/OpenERP70/openerp/tests/addons/test_limits/__openerp__.py
+openerp.tests.addons.test_limits.models|/opt/projects/OpenERP70/openerp/tests/addons/test_limits/models.py
+openerp.tests.addons.test_uninstall.__init__|/opt/projects/OpenERP70/openerp/tests/addons/test_uninstall/__init__.py
+openerp.tests.addons.test_uninstall.__openerp__|/opt/projects/OpenERP70/openerp/tests/addons/test_uninstall/__openerp__.py
+openerp.tests.addons.test_uninstall.models|/opt/projects/OpenERP70/openerp/tests/addons/test_uninstall/models.py
 openerp.tests.common|/opt/projects/OpenERP70/openerp/tests/common.py
 openerp.tests.test_acl|/opt/projects/OpenERP70/openerp/tests/test_acl.py
 openerp.tests.test_basecase|/opt/projects/OpenERP70/openerp/tests/test_basecase.py
@@ -1425,3 +1430,6 @@ openerp.workflow.wkf_expr|/opt/projects/OpenERP70/openerp/workflow/wkf_expr.py
 openerp.workflow.wkf_logs|/opt/projects/OpenERP70/openerp/workflow/wkf_logs.py
 openerp.workflow.wkf_service|/opt/projects/OpenERP70/openerp/workflow/wkf_service.py
 openerp.workflow.workitem|/opt/projects/OpenERP70/openerp/workflow/workitem.py
+setup|/opt/projects/OpenERP70/setup.py
+win32.OpenERPServerService|/opt/projects/OpenERP70/win32/OpenERPServerService.py
+win32.setup|/opt/projects/OpenERP70/win32/setup.py
