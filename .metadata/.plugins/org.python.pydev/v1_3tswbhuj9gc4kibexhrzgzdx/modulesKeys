@@ -3228,6 +3228,8 @@ openerp.addons.l10n_uy.__init__|/usr/lib/pymodules/python2.7/openerp/addons/l10n
 openerp.addons.l10n_uy.__openerp__|/usr/lib/pymodules/python2.7/openerp/addons/l10n_uy/__openerp__.py
 openerp.addons.l10n_ve.__init__|/usr/lib/pymodules/python2.7/openerp/addons/l10n_ve/__init__.py
 openerp.addons.l10n_ve.__openerp__|/usr/lib/pymodules/python2.7/openerp/addons/l10n_ve/__openerp__.py
+openerp.addons.l10n_vn.__init__|/usr/lib/pymodules/python2.7/openerp/addons/l10n_vn/__init__.py
+openerp.addons.l10n_vn.__openerp__|/usr/lib/pymodules/python2.7/openerp/addons/l10n_vn/__openerp__.py
 openerp.addons.lunch.__init__|/usr/lib/pymodules/python2.7/openerp/addons/lunch/__init__.py
 openerp.addons.lunch.__openerp__|/usr/lib/pymodules/python2.7/openerp/addons/lunch/__openerp__.py
 openerp.addons.lunch.lunch|/usr/lib/pymodules/python2.7/openerp/addons/lunch/lunch.py
@@ -3398,6 +3400,7 @@ openerp.addons.portal.__init__|/usr/lib/pymodules/python2.7/openerp/addons/porta
 openerp.addons.portal.__openerp__|/usr/lib/pymodules/python2.7/openerp/addons/portal/__openerp__.py
 openerp.addons.portal.acquirer|/usr/lib/pymodules/python2.7/openerp/addons/portal/acquirer.py
 openerp.addons.portal.mail_mail|/usr/lib/pymodules/python2.7/openerp/addons/portal/mail_mail.py
+openerp.addons.portal.mail_message|/usr/lib/pymodules/python2.7/openerp/addons/portal/mail_message.py
 openerp.addons.portal.portal|/usr/lib/pymodules/python2.7/openerp/addons/portal/portal.py
 openerp.addons.portal.tests.__init__|/usr/lib/pymodules/python2.7/openerp/addons/portal/tests/__init__.py
 openerp.addons.portal.tests.test_portal|/usr/lib/pymodules/python2.7/openerp/addons/portal/tests/test_portal.py
